@@ -30,7 +30,7 @@ greet("홍길동")
 ```
 
 #### 링크와 이미지
-https://image.dongascience.com/Photo/2020/10/8a5748b94df480da7df06adcdaa417c9.jpg
+[구글로 가기](https://image.dongascience.com/Photo/2020/10/8a5748b94df480da7df06adcdaa417c9.jpg)
 
 귀여운 고양이 이미지: 
 
